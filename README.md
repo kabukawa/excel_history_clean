@@ -6,12 +6,13 @@ Overview
 
 ## Description
 
-VB Script for clean history list of Microsoft Excel.
+VB Script for clean history list of Microsoft Excel/Word.
 
 ## Requirement
 
 * Microsoft Windows
 * Microsoft Excel
+* Microsoft Word
 
 ## Usage
 
@@ -21,9 +22,15 @@ Double click or run command line.
 wscript ExcelHistotyClean.vbs
 ```
 
+Or
+
+```
+wscript WordHistotyClean.vbs
+```
+
 ## Install
 
-Copy ExcelHistotyClean.vbs your PC.
+Copy Script *.vbs your PC.
 
 ## Contribution
 
